@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchaudio
+numpy
+soundfile
+pyaudio
+webrtcvad
+faster-whisper
+llama-cpp-python
+TTS
